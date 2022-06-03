@@ -1,0 +1,1 @@
+Sitemap: https://sailfishos-vayu.github.io/repo//sitemap.xml
