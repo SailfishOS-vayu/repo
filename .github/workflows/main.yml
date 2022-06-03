@@ -1,0 +1,39 @@
+name: Directory Listing
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2.1.4
+        with:
+          python-version: 3.x
+
+      - name: Install required packages from apt
+        run: |
+          sudo apt update
+          sudo apt install poppler-utils libfile-mimeinfo-perl libimage-exiftool-perl \
+          ghostscript libsecret-1-0 zlib1g-dev libjpeg-dev imagemagick libmagic1 webp
+      - name: Install python packages with pip
+        uses: BSFishy/pip-action@v1
+        with:
+          requirements: requirements.txt
+
+      - name: Generate index
+        run: staticdirindex . --sitename="SailfishOS-vayu Directory Listing" --baseurl="https://sailfishos-vayu.github.io/repo/"
+
+      - name: GitHub Pages action
+        uses: peaceiris/actions-gh-pages@v3.7.3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          user_name: Github Actions
+          user_email: github-actions[bot]@users.noreply.github.com
+          exclude_assets: ".github,.listignore,.gitignore,README.md"
