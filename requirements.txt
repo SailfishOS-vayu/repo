@@ -1,4 +1,0 @@
-gitignore_parser
-staticdirindex
-preview-generator
-mako
