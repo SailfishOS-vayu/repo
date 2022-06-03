@@ -6,20 +6,8 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/.github/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
     <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/</loc>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://sailfishos-vayu.github.io/repo/.github/workflows/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://sailfishos-vayu.github.io/repo/.github/workflows/main.yml</loc>
-    <changefreq>never</changefreq>
   </url>
   <url>
     <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/</loc>
