@@ -10,6 +10,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -671,6 +675,62 @@
   </url>
   <url>
     <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/repomd.xml</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/droid-hwcrypt-1.0.0%2Bmaster.20220530185245.5467437-202206042153.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/harbour-containers-0.4.1%2Bmaster.20220602224204.28642b6-1.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/lxc-templates-desktop-1.2.1-1.noarch.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/qxcompositor-0.0.5-1.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/qxdisplay-0.0.5-1.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/201382e81e23774bbcccf668b6e5086007649f19edc384815a893a82046a3670-primary.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/2f8b7d31f13d4e0111057f30237a2c57431f338235c60e17d9d02b2dea2fbd6f-filelists.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/45dcf3ebbc2a1c8c1b4445b1d4e277d7b92681f2aaabc4f1cf6d2deebcf201c4-primary.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/67fbcebc7de391de0c17f3f4bfeaa2ffc0406e1891ff0a2882844373211878a4-other.xml.gz</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/d58d0457f81cca5e85fc799c6755791f7d47790483a461327c92ecf59bb56055-other.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/f07badf0c8aaa03c26af18860ba83e90bfc70bbd2a689b8f5156e244873479db-filelists.sqlite.bz2</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/repomd.xml</loc>
     <changefreq>never</changefreq>
   </url>
 </urlset>
