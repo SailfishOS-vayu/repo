@@ -306,39 +306,35 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repodata/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/02950bb277aa509e9e4a84c0fa75eebba999e2e580b28a80b16aee3162c28dda-primary.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repodata/02950bb277aa509e9e4a84c0fa75eebba999e2e580b28a80b16aee3162c28dda-primary.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/22302323ca3d0b0b5f7a57a5d9ec0f6c64e6a1696b328f66ad1d5820faf78eb8-filelists.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repodata/22302323ca3d0b0b5f7a57a5d9ec0f6c64e6a1696b328f66ad1d5820faf78eb8-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/363d240ec312ad2b471a60958ea6d2741016912e5d943487e6ec269b337ac0e7-other.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repodata/363d240ec312ad2b471a60958ea6d2741016912e5d943487e6ec269b337ac0e7-other.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/752a259279d08920ff7a4e16da461848c1813a165acb51e1b727c4d74459b10f-other.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repodata/752a259279d08920ff7a4e16da461848c1813a165acb51e1b727c4d74459b10f-other.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/7886b61ecd471245d4ba969a3579a83d7f033df4b8eb4a79b213cda30f9a631b-filelists.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repodata/7886b61ecd471245d4ba969a3579a83d7f033df4b8eb4a79b213cda30f9a631b-filelists.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/f52975e47845020053c7e5a2cd00b68af93186af05542fa2fa08bd9382c74c30-primary.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repodata/f52975e47845020053c7e5a2cd00b68af93186af05542fa2fa08bd9382c74c30-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/repomd.xml</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repodata/repomd.xml</loc>
     <changefreq>never</changefreq>
   </url>
 </urlset>
