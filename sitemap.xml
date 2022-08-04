@@ -26,203 +26,203 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-biometry-fp-1.1.3-202206111040.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-biometry-fp-1.1.3-202208041920.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-bluez5-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-bluez5-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-flashing-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-flashing-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-kickstart-configuration-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-kickstart-configuration-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-policy-settings-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-policy-settings-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-preinit-plugin-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-preinit-plugin-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-pulseaudio-settings-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-pulseaudio-settings-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-sailfish-1-202206111016.noarch.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-sailfish-1-202208041901.noarch.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-ssu-kickstarts-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-config-vayu-ssu-kickstarts-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-fake-crypt-1.1.3-202206111040.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-fake-crypt-1.1.3-202208041920.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-detritus-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-detritus-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-devel-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-devel-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-img-boot-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-img-boot-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-img-recovery-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-img-recovery-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-kernel-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-kernel-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-kernel-dtbo-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-kernel-dtbo-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-kernel-modules-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-kernel-modules-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-tools-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-tools-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-users-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-vayu-users-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-version-vayu-0.0.1-202206111024.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-version-vayu-0.0.1-202208041907.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-version-vayu-doc-0.0.1-202206111024.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droid-hal-version-vayu-doc-0.0.1-202208041907.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droidmedia-0.20211221.0%2B2%2Bgac7b1ef-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/droidmedia-0.20220716.0-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-doc-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-doc-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libEGL-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libEGL-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libEGL-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libEGL-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libGLESv1-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libGLESv1-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libGLESv1-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libGLESv1-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libGLESv2-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libGLESv2-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libGLESv2-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libGLESv2-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libOpenCL-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libOpenCL-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libOpenCL-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libOpenCL-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libhardware-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libhardware-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libhardware-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libhardware-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libnfc-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libnfc-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libnfc-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libnfc-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libsf-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libsf-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libsf-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libsf-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libsync-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libsync-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libsync-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libsync-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libvibrator-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libvibrator-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libvibrator-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libvibrator-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libvulkan-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libvulkan-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libwayland-egl-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-libwayland-egl-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-tests-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-tests-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-tests-upstream-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-tests-upstream-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-tests-upstream-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/libhybris-tests-upstream-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -254,15 +254,15 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/patterns-sailfish-device-adaptation-vayu-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/patterns-sailfish-device-adaptation-vayu-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/patterns-sailfish-device-configuration-common-vayu-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/patterns-sailfish-device-configuration-common-vayu-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/patterns-sailfish-device-configuration-vayu-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/patterns-sailfish-device-configuration-vayu-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -298,27 +298,27 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/0428641369726a854adde49474fbe39add618ca00212be83b55d28b988288be0-other.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/0275fb4a6c07f7b78b0fde3349e7c9a34e516fb85d6e1814b587c5cb164d51d1-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/45ac820b88ef2d522995395aa2d1b83f9fa887a21f205ecb1d54c9d549d82b7a-filelists.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/1605c26309624ce36103e17a485e6a8bdf05802f8e78836ab2efb4456df321c6-filelists.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/81c98d429868b7e6fecb358bfc7c4f378b7de0dd5d67a162e8a1237b61eb1d6b-other.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/18c3851cfa08a5ef9aed8c1ceb9cf4c4f64eb71c30e2a21995b9bac5a0f8ddc6-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/a35567e696c7f99e38e9e048a7af460f8e6359e2982b5b83be34bf8453b37472-primary.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/2c354895a0fdfa3590c035e3cf7faf6c8bf464ec940ee568b593f409615acb9d-other.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/d5d9182f2e04b15641cc3940d8b4c9c04d832924f87db0f9bca94d47f985800b-filelists.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/937a4cb4171082b4da1039e81907a08d15a60e25e1927d9e382d8536b200d4f5-primary.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/e21ad37f28e0f5bc5e91fa429270ca414d581f58f4ff34d91e08e352e038dc2f-primary.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.58/vayu/repo/repodata/9d9296711ceb1170253c77ef9e7838a974d1456735fba91b2bff550ed3235c53-other.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -334,203 +334,203 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-biometry-fp-1.1.3-202206111040.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-biometry-fp-1.1.3-202208041920.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-bluez5-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-bluez5-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-flashing-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-flashing-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-kickstart-configuration-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-kickstart-configuration-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-policy-settings-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-policy-settings-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-preinit-plugin-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-preinit-plugin-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-pulseaudio-settings-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-pulseaudio-settings-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-sailfish-1-202206111016.noarch.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-sailfish-1-202208041901.noarch.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-ssu-kickstarts-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-config-vayu-ssu-kickstarts-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-fake-crypt-1.1.3-202206111040.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-fake-crypt-1.1.3-202208041920.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-detritus-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-detritus-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-devel-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-devel-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-img-boot-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-img-boot-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-img-recovery-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-img-recovery-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-kernel-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-kernel-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-kernel-dtbo-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-kernel-dtbo-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-kernel-modules-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-kernel-modules-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-tools-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-tools-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-users-0.0.6-202206111014.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-vayu-users-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-version-vayu-0.0.1-202206111024.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-version-vayu-0.0.1-202208041907.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-version-vayu-doc-0.0.1-202206111024.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droid-hal-version-vayu-doc-0.0.1-202208041907.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droidmedia-0.20211221.0%2B2%2Bgac7b1ef-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/droidmedia-0.20220716.0-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-doc-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-doc-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libEGL-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libEGL-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libEGL-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libEGL-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libGLESv1-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libGLESv1-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libGLESv1-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libGLESv1-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libGLESv2-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libGLESv2-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libGLESv2-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libGLESv2-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libOpenCL-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libOpenCL-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libOpenCL-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libOpenCL-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libhardware-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libhardware-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libhardware-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libhardware-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libnfc-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libnfc-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libnfc-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libnfc-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libsf-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libsf-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libsf-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libsf-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libsync-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libsync-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libsync-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libsync-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libvibrator-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libvibrator-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libvibrator-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libvibrator-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libvulkan-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libvulkan-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libwayland-egl-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-libwayland-egl-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-tests-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-tests-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-tests-upstream-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-tests-upstream-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-tests-upstream-devel-0.0.5.45%2BHEAD.20220611101720.5105277-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/libhybris-tests-upstream-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -562,15 +562,15 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/patterns-sailfish-device-adaptation-vayu-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/patterns-sailfish-device-adaptation-vayu-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/patterns-sailfish-device-configuration-common-vayu-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/patterns-sailfish-device-configuration-common-vayu-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/patterns-sailfish-device-configuration-vayu-1-202206111016.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/patterns-sailfish-device-configuration-vayu-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -606,27 +606,27 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/0428641369726a854adde49474fbe39add618ca00212be83b55d28b988288be0-other.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/0275fb4a6c07f7b78b0fde3349e7c9a34e516fb85d6e1814b587c5cb164d51d1-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/45ac820b88ef2d522995395aa2d1b83f9fa887a21f205ecb1d54c9d549d82b7a-filelists.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/1605c26309624ce36103e17a485e6a8bdf05802f8e78836ab2efb4456df321c6-filelists.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/81c98d429868b7e6fecb358bfc7c4f378b7de0dd5d67a162e8a1237b61eb1d6b-other.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/18c3851cfa08a5ef9aed8c1ceb9cf4c4f64eb71c30e2a21995b9bac5a0f8ddc6-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/a35567e696c7f99e38e9e048a7af460f8e6359e2982b5b83be34bf8453b37472-primary.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/2c354895a0fdfa3590c035e3cf7faf6c8bf464ec940ee568b593f409615acb9d-other.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/d5d9182f2e04b15641cc3940d8b4c9c04d832924f87db0f9bca94d47f985800b-filelists.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/937a4cb4171082b4da1039e81907a08d15a60e25e1927d9e382d8536b200d4f5-primary.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/e21ad37f28e0f5bc5e91fa429270ca414d581f58f4ff34d91e08e352e038dc2f-primary.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.64/vayu/repo/repodata/9d9296711ceb1170253c77ef9e7838a974d1456735fba91b2bff550ed3235c53-other.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -642,203 +642,203 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-biometry-fp-1.1.3-202207141003.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-biometry-fp-1.1.3-202208041920.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-1-202207140954.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-bluez5-1-202207140954.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-bluez5-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-flashing-1-202207140954.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-flashing-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-kickstart-configuration-1-202207140954.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-kickstart-configuration-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-policy-settings-1-202207140954.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-policy-settings-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-preinit-plugin-1-202207140954.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-preinit-plugin-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-pulseaudio-settings-1-202207140954.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-pulseaudio-settings-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-sailfish-1-202207140954.noarch.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-sailfish-1-202208041901.noarch.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-ssu-kickstarts-1-202207140954.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-config-vayu-ssu-kickstarts-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-fake-crypt-1.1.3-202207141003.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-fake-crypt-1.1.3-202208041920.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-0.0.6-202207140952.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-detritus-0.0.6-202207140952.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-detritus-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-devel-0.0.6-202207140952.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-devel-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-img-boot-0.0.6-202207140952.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-img-boot-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-img-recovery-0.0.6-202207140952.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-img-recovery-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-kernel-0.0.6-202207140952.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-kernel-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-kernel-dtbo-0.0.6-202207140952.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-kernel-dtbo-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-kernel-modules-0.0.6-202207140952.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-kernel-modules-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-tools-0.0.6-202207140952.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-tools-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-users-0.0.6-202207140952.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-vayu-users-0.0.6-202208041859.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-version-vayu-0.0.1-202207140959.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-version-vayu-0.0.1-202208041907.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-version-vayu-doc-0.0.1-202207140959.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droid-hal-version-vayu-doc-0.0.1-202208041907.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droidmedia-0.20220213.0%2B2%2Bgf440916-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/droidmedia-0.20220716.0-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-devel-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-doc-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-doc-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libEGL-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libEGL-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libEGL-devel-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libEGL-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libGLESv1-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libGLESv1-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libGLESv1-devel-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libGLESv1-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libGLESv2-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libGLESv2-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libGLESv2-devel-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libGLESv2-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libOpenCL-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libOpenCL-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libOpenCL-devel-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libOpenCL-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libhardware-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libhardware-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libhardware-devel-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libhardware-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libnfc-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libnfc-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libnfc-devel-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libnfc-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libsf-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libsf-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libsf-devel-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libsf-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libsync-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libsync-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libsync-devel-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libsync-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libvibrator-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libvibrator-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libvibrator-devel-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libvibrator-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libvulkan-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libvulkan-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libwayland-egl-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-libwayland-egl-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-tests-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-tests-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-tests-upstream-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-tests-upstream-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-tests-upstream-devel-0.0.5.45%2BHEAD.20220714095444.504dd9a-1.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/libhybris-tests-upstream-devel-0.0.5.46%2BHEAD.20220804190142.f326db1-1.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -870,15 +870,15 @@
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/patterns-sailfish-device-adaptation-vayu-1-202207140954.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/patterns-sailfish-device-adaptation-vayu-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/patterns-sailfish-device-configuration-common-vayu-1-202207140954.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/patterns-sailfish-device-configuration-common-vayu-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/patterns-sailfish-device-configuration-vayu-1-202207140954.aarch64.rpm</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/patterns-sailfish-device-configuration-vayu-1-202208041901.aarch64.rpm</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
@@ -914,27 +914,27 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/repo/repodata/0ea3de157241261b369a613d091621a4dc8e3ab74ec1bad0532a17bf441b0a2f-primary.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/repo/repodata/0275fb4a6c07f7b78b0fde3349e7c9a34e516fb85d6e1814b587c5cb164d51d1-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/repo/repodata/17084171c390549308a41e8415295dfc7900741f4307ef323df7369c76b75762-primary.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/repo/repodata/1605c26309624ce36103e17a485e6a8bdf05802f8e78836ab2efb4456df321c6-filelists.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/repo/repodata/4228eddc594a161ff36c7934423c7f9981a370164fa98508ff28edb38684ef06-filelists.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/repo/repodata/18c3851cfa08a5ef9aed8c1ceb9cf4c4f64eb71c30e2a21995b9bac5a0f8ddc6-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/repo/repodata/9481d8c00a53acc2f3b1c103780ea3ad2bb60fc7e631abd87b37d0c38b636c36-other.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/repo/repodata/2c354895a0fdfa3590c035e3cf7faf6c8bf464ec940ee568b593f409615acb9d-other.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/repo/repodata/dedfaf1897bc7babfa16056d10064ed17f87a0d70cd464fd6304745f9a145ac6-other.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/repo/repodata/937a4cb4171082b4da1039e81907a08d15a60e25e1927d9e382d8536b200d4f5-primary.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/repo/repodata/e2ef70b72755ee45fd00b411bc0aa0318560632ed952503b30ae84b350f488a2-filelists.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/4.4.0.68/vayu/repo/repodata/9d9296711ceb1170253c77ef9e7838a974d1456735fba91b2bff550ed3235c53-other.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
