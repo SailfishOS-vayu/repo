@@ -1278,6 +1278,66 @@
     <changefreq>never</changefreq>
   </url>
   <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/sailfish-device-encryption-community-generator-0.1-1.1.3.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/sailfish-device-encryption-community-generator-debuginfo-0.1-1.1.3.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/sailfish-device-encryption-community-generator-debugsource-0.1-1.1.3.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/sailfish-device-encryption-community-service-1.0.0-1.1.3.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/sailfish-device-encryption-community-service-debuginfo-1.0.0-1.1.3.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/sailfish-device-encryption-community-service-debugsource-1.0.0-1.1.3.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/sailfish-device-encryption-community-settings-1.0.0-1.1.1.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/sailfish-device-encryption-community-settings-debuginfo-1.0.0-1.1.1.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/sailfish-device-encryption-community-settings-debugsource-1.0.0-1.1.1.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/sailfish-device-encryption-community-wizard-1.0.2-1.4.1.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/sailfish-device-encryption-community-wizard-debuginfo-1.0.2-1.4.1.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/sailfish-device-encryption-community-wizard-debugsource-1.0.2-1.4.1.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/systemd-ask-password-gui-1.0.0-1.1.1.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/systemd-ask-password-gui-debuginfo-1.0.0-1.1.1.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/systemd-ask-password-gui-debugsource-1.0.0-1.1.1.jolla.aarch64.rpm</loc>
+    <changefreq>never</changefreq>
+  </url>
+  <url>
     <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -1286,27 +1346,27 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/707fe6b1178b730c5d651066027be97f9a7fc5d214a51b0519079200ea61c50b-other.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/55e20f02f29c39982ddac4496bef032251600ac14c8298d55b40a93868940bfc-primary.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/8fa37527e6d483477abe5b45dc5d8c1f4886cda0f3cbb2dc35cd7eb9e8634c00-filelists.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/58bbb750cc2c30200fe1d2ac143369aa4323208d3380d273d672bd3ce6113896-primary.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/d9709fbf364b3c91a9c4c2843fb2c36abc660ab92eb0cf489b23c562feb3b258-other.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/5a0f793445eb05f81b1b965b37ad77c115c407d0479792d230010554a06e094b-filelists.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/db6e46d2f1539c2125f4d098dbe191ba2898085e6666d113774fae4da379c974-primary.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/60021099ba1231ff8d4b59729bbcfe89dedeea34a19b6842889acfeec88a535c-other.sqlite.bz2</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/dff5187ea10cbda48e549f50a9a6d8f72387f62fcc7fac6d737a6a04f06ef635-filelists.xml.gz</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/7c496939c82cba9ae6720f108dc2567068cd51f76f74c66fe9161f1fdbb03b77-filelists.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
-    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/e1ff3cb45b7baaced6eeec949cf18c7a1866db083f8c16f740466e1f42992200-primary.sqlite.bz2</loc>
+    <loc>https://sailfishos-vayu.github.io/repo/custom-repo/repo/repodata/9eee664518d6cddd90b08d287935e91836946d5559d1d40451de124c58638f71-other.xml.gz</loc>
     <changefreq>never</changefreq>
   </url>
   <url>
